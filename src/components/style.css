@@ -1,0 +1,24 @@
+td {
+  background-color: #070f2b !important;
+}
+.btn {
+  background-color: #535c91 !important;
+  border-radius: 15%;
+  padding: 6px 13px 6px 13px;
+  color: #ff0060;
+  margin: 10px 20px 10px 20px;
+}
+a {
+  color: #00dfa2 !important;
+}
+.btn:hover {
+  color: #f6fa70 !important;
+}
+.form-group {
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+.update {
+  margin-left: 5%;
+}
